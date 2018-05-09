@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "target": "es5",
+    "types": [
+      "react", "react-dom"
+    ]    
+  },
+  "exclude": ["node_modules"],
+  "awesomeTypescriptLoaderOptions": {
+    "errorsAsWarnings": true
+  }
+}
